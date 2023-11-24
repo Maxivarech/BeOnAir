@@ -1,0 +1,13 @@
+.photos{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    
+}
+
+.photos img{
+   width:40%;
+}
+
+.photo {
+    padding: 40px;
+}
